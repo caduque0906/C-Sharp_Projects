@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MathAndComparisonOperators
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Print the program header
+            Console.WriteLine("Anonymous Income Comparison Program");
+
+            
+        }
+    }
+}
