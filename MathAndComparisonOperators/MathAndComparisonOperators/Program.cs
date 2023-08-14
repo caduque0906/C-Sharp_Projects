@@ -19,6 +19,14 @@ namespace MathAndComparisonOperators
             double hourlyRatePerson1 = Convert.ToDouble(Console.ReadLine());  // Get hourly rate as a double
             Console.Write("Hours worked per week? ");
             double hoursWorkedPerWeekPerson1 = Convert.ToDouble(Console.ReadLine());  // Get hours worked per week as a double
+
+
+            // Get details for Person 2
+            Console.WriteLine("Person 2");
+            Console.Write("Hourly Rate? ");
+            double hourlyRatePerson2 = Convert.ToDouble(Console.ReadLine());  // Get hourly rate as a double
+            Console.Write("Hours worked per week? ");
+            double hoursWorkedPerWeekPerson2 = Convert.ToDouble(Console.ReadLine());  // Get hours worked per week as a double
         }
     }
 }
