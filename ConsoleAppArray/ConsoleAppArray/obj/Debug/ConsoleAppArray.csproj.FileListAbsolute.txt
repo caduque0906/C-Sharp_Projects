@@ -1,0 +1,7 @@
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.AssemblyReference.cache
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe.config
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.pdb
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.exe
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.pdb
