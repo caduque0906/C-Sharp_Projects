@@ -1,0 +1,6 @@
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\MainMethod\MainMethod\bin\Debug\MainMethod.exe.config
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\MainMethod\MainMethod\bin\Debug\MainMethod.exe
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\MainMethod\MainMethod\bin\Debug\MainMethod.pdb
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\MainMethod\MainMethod\obj\Debug\MainMethod.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\MainMethod\MainMethod\obj\Debug\MainMethod.exe
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\MainMethod\MainMethod\obj\Debug\MainMethod.pdb
