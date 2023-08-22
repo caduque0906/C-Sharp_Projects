@@ -19,6 +19,8 @@ namespace ClassAssignment
 
             // Call the DivideByTwo method on the entered number
             mathOps.DivideByTwo(userInput);
+
+            Console.ReadLine();
         }
     }
 }
