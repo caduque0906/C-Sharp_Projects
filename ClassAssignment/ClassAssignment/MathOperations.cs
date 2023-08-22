@@ -16,6 +16,19 @@ namespace ClassAssignment
                 int result = number / 2;
                 Console.WriteLine($"Result of division by 2: {result}");
             }
+
+            public void MultiplyByTwo(int number)
+            {
+                // Multiply the number by 2 and display the result
+                int result = number * 2;
+                Console.WriteLine($"Result of multiplication by 2: {result}");
+            }
+
+            public void Add(int num1, int num2, out int sum)
+            {
+                // Add two numbers and assign the sum to the output parameter
+                sum = num1 + num2;
+            }
         }
     }
 }
