@@ -10,6 +10,15 @@ namespace ClassAssignment
     {
         static void Main(string[] args)
         {
+            // Create an instance of the MathOperations class
+            MathOperations mathOps = new MathOperations();
+
+            // Ask the user to enter a number
+            Console.Write("Enter a number: ");
+            int userInput = Convert.ToInt32(Console.ReadLine());
+
+            // Call the DivideByTwo method on the entered number
+            mathOps.DivideByTwo(userInput);
         }
     }
 }
