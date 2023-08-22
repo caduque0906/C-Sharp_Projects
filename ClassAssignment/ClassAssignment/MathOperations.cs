@@ -8,7 +8,7 @@ namespace ClassAssignment
 {
     class MathOperations
     {
-        public class MathOperations
+        public static class MathOperations
         {
             public void DivideByTwo(int number)
             {
