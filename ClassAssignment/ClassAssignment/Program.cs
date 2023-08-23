@@ -13,12 +13,13 @@ namespace ClassAssignment
             // Create an instance of the MathOperations class
             MathOperations mathOps = new MathOperations();
 
-            // Ask the user to enter a number
-            Console.Write("Enter a number: ");
-            int userInput = Convert.ToInt32(Console.ReadLine());
+            // Call the methods on the instance of the MathOperations class
+            mathOps.DivideByTwo(10);
+            mathOps.MultiplyByTwo(8);
 
-            // Call the DivideByTwo method on the entered number
-            mathOps.DivideByTwo(userInput);
+            // Call the Add method with output parameter
+            mathOps.Add(5, 7, out int sum);
+            Console.WriteLine($"Sum of 5 and 7: {sum}");
 
             Console.ReadLine();
         }
