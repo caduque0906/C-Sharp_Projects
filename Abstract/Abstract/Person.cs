@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace Abstract
 {
-    class Person
+    public abstract class Person
     {
-        public abstract class Person
-        {
-            public string FirstName { get; set; }
-            public string LastName { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
 
-            public abstract void SayName();
-        }
+        public abstract void SayName();
     }
 }
