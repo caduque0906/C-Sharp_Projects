@@ -10,6 +10,16 @@ namespace MethodsAndObjects
     {
         static void Main(string[] args)
         {
+            // Instantiate and initialize an Employee object
+            Employee employee = new Employee
+            {
+                FirstName = "Sample",
+                LastName = "Student",
+                Id = 123
+            };
+
+            // Call the SayName() method on the Employee object
+            employee.SayName();
         }
     }
 }
