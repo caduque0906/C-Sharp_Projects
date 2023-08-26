@@ -10,6 +10,21 @@ namespace Polymorphism
     {
         static void Main(string[] args)
         {
+            // Create an Employee object
+            Employee employee = new Employee
+            {
+                FirstName = "Sample",
+                LastName = "Employee"
+            };
+
+            // Call the SayName method on Employee
+            employee.SayName();
+
+            // Demonstrate polymorphism using IQuittable interface
+            IQuittable quittable = employee;
+            quittable.Quit();
+
+            Console.ReadLine();
         }
     }
 }
