@@ -13,8 +13,8 @@ namespace MethodsAndObjects
             // Instantiate and initialize an Employee object
             Employee employee = new Employee
             {
-                FirstName = "Sample",
-                LastName = "Student",
+                FirstName = "Carlos",
+                LastName = "Duque",
                 Id = 123
             };
 
