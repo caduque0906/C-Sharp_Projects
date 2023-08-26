@@ -20,6 +20,8 @@ namespace MethodsAndObjects
 
             // Call the SayName() method on the Employee object
             employee.SayName();
+
+            Console.Read();
         }
     }
 }
