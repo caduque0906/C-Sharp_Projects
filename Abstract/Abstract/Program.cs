@@ -13,8 +13,8 @@ namespace Abstract
             // Instantiate an Employee object
             Employee employee = new Employee
             {
-                FirstName = "Sample",
-                LastName = "Student"
+                FirstName = "Carlos",
+                LastName = "Duque"
             };
 
             // Call the SayName() method on the Employee object
