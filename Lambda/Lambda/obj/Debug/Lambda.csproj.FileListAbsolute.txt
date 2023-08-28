@@ -1,0 +1,2 @@
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Lambda\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Lambda\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
