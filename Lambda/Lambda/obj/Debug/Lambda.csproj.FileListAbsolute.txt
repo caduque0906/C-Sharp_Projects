@@ -1,2 +1,7 @@
 C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Lambda\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
 C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Lambda\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Lambda\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Lambda\Lambda\bin\Debug\Lambda.exe
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Lambda\Lambda\bin\Debug\Lambda.pdb
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Lambda\Lambda\obj\Debug\Lambda.exe
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Lambda\Lambda\obj\Debug\Lambda.pdb
