@@ -11,6 +11,8 @@ namespace ClassAssignment
         public static void StaticMethod()
         {
             Console.WriteLine("This is a static method in a static class.");
+
+            Console.ReadLine();
         }
     }
 }
