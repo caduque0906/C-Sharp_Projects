@@ -10,18 +10,25 @@ namespace ClassAssignment
     {
         static void Main(string[] args)
         {
-            // Create an instance of the MathOperations class
-            MathOperations mathOps = new MathOperations();
+            // Step 3: Instantiate the Calculator class
+            Calculator calculator = new Calculator();
 
             // Ask the user to enter a number
             Console.Write("Enter a number: ");
             double userInput = Convert.ToDouble(Console.ReadLine());
 
             // Call the DivideByTwo methods and display the results
-            mathOps.DivideByTwo(userInput);
+            calculator.DivideByTwo(userInput);
 
-            // Declare a static class (no instantiation needed)
-            StaticClass.StaticMethod();
+            // Step 7: Example of using the new method with output parameters
+            int num1 = 10;
+            int num2 = 3;
+            int quotient, remainder;
+
+            calculator.DivideWithRemainder(num1, num2, out quotient, out remainder);
+
+            Console.WriteLine($"Result of dividing {num1} by {num2}: Quotient = {quotient}, Remainder = {remainder}");
+
 
             Console.ReadLine();
         }
