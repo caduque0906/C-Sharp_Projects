@@ -13,13 +13,15 @@ namespace ClassAssignment
             // Create an instance of the MathOperations class
             MathOperations mathOps = new MathOperations();
 
-            // Call the methods on the instance of the MathOperations class
-            mathOps.DivideByTwo(10);
-            mathOps.MultiplyByTwo(8);
+            // Ask the user to enter a number
+            Console.Write("Enter a number: ");
+            double userInput = Convert.ToDouble(Console.ReadLine());
 
-            // Call the Add method with output parameter
-            mathOps.Add(5, 7, out int sum);
-            Console.WriteLine($"Sum of 5 and 7: {sum}");
+            // Call the DivideByTwo methods and display the results
+            mathOps.DivideByTwo(userInput);
+
+            // Declare a static class (no instantiation needed)
+            StaticClass.StaticMethod();
 
             Console.ReadLine();
         }
