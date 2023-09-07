@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ClassAssignment"
   ],
-  "SelectedNode": "\\ClassAssignment.sln",
+  "SelectedNode": "\\ClassAssignment\\Static.cs",
   "PreviewInSolutionExplorer": false
 }
