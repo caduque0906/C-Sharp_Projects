@@ -12,9 +12,6 @@ namespace Constructor
         // Create a const variable
         public const int MaxValue = 100;
 
-        // Create a variable using the keyword "var"
-        public var DynamicVariable = "This is a dynamically typed variable";
-
         // Chain two constructors together
         public Example()
             : this("Default Constructor")
