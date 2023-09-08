@@ -18,6 +18,8 @@ namespace Constructor
 
             // Access the dynamically typed variable
             Console.WriteLine(example.DynamicVariable);
+
+            Console.ReadLine();
         }
     }
 }
