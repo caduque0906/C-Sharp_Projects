@@ -10,6 +10,9 @@ namespace Constructor
     {
         static void Main(string[] args)
         {
+            // Step 2: Create a variable using the keyword "var"
+            var dynamicVar = "This is a dynamically typed variable";
+
             // Instantiate the Example class
             Example example = new Example();
 
@@ -17,7 +20,7 @@ namespace Constructor
             Console.WriteLine($"Max Value: {Example.MaxValue}");
 
             // Access the dynamically typed variable
-            Console.WriteLine(example.DynamicVariable);
+            Console.WriteLine(dynamicVar);
 
             Console.ReadLine();
         }
