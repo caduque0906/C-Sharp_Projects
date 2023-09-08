@@ -10,6 +10,14 @@ namespace Constructor
     {
         static void Main(string[] args)
         {
+            // Instantiate the Example class
+            Example example = new Example();
+
+            // Access the constant variable
+            Console.WriteLine($"Max Value: {Example.MaxValue}");
+
+            // Access the dynamically typed variable
+            Console.WriteLine(example.DynamicVariable);
         }
     }
 }
