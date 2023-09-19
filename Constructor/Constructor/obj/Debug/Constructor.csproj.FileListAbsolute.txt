@@ -1,2 +1,7 @@
 C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
 C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Constructor\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Constructor\Constructor\bin\Debug\Constructor.exe
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Constructor\Constructor\bin\Debug\Constructor.pdb
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Constructor\Constructor\obj\Debug\Constructor.exe
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Constructor\Constructor\obj\Debug\Constructor.pdb
