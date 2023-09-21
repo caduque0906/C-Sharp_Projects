@@ -50,6 +50,8 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+
+
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -122,6 +124,52 @@ namespace CarInsurance.Controllers
                 db.Dispose();
             }
             base.Dispose(disposing);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType")] Insuree insuree)
+        {
+            if (ModelState.IsValid)
+            {
+                // Calculate Quote based on provided guidelines
+                decimal quote = 50;
+
+                if (insuree.DateOfBirth > DateTime.Now.AddYears(-18))
+                    quote += 100;
+                else if (insuree.DateOfBirth > DateTime.Now.AddYears(-25))
+                    quote += 50;
+                else
+                    quote += 25;
+
+                if (insuree.CarYear < 2000)
+                    quote += 25;
+                if (insuree.CarYear > 2015)
+                    quote += 25;
+
+                if (insuree.CarMake.ToLower() == "porsche")
+                {
+                    quote += 25;
+                    if (insuree.CarModel.ToLower() == "911 carrera")
+                        quote += 25;
+                }
+
+                quote += 10 * insuree.SpeedingTickets;
+
+                if (insuree.DUI)
+                    quote *= 1.25m;
+
+                if (insuree.CoverageType)
+                    quote *= 1.5m;
+
+                insuree.Quote = quote;
+
+                db.Insurees.Add(insuree);
+                db.SaveChanges();
+                return RedirectToAction("Index");
+            }
+
+            return View(insuree);
         }
     }
 }
