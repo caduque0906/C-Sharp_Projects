@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VeOD3Yfe6kjY6xceOFS2zA6Bk99EwQafki6UsMZgmasc3n1Inmcp9sTk8SxGMCDzfOAQZSE/16haz7/Yl5Nq0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos\\Documents\\Github\\C_Sharp_Projects\\Challenge_1\\Challenge_1\\Challenge_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
