@@ -1,0 +1,5 @@
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Challenge_2\Challenge_2\obj\Debug\net5.0\Challenge_2.csproj.AssemblyReference.cache
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Challenge_2\Challenge_2\obj\Debug\net5.0\Challenge_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Challenge_2\Challenge_2\obj\Debug\net5.0\Challenge_2.AssemblyInfoInputs.cache
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Challenge_2\Challenge_2\obj\Debug\net5.0\Challenge_2.AssemblyInfo.cs
+C:\Users\Carlos\Documents\Github\C_Sharp_Projects\Challenge_2\Challenge_2\obj\Debug\net5.0\Challenge_2.csproj.CoreCompileInputs.cache

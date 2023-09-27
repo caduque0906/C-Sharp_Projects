@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vnmu5fT3q/11ur7xpHKAKB+YrGZbsEHeDp4M1G+utc70BrNA91CG6LC6kuFg6xG01UvFO/3WyxBNM2qb2Huhcw==",
+  "dgSpecHash": "+iwnAfvE5Ri0L5Ky0BlzFeBptE2JgpXCwIh6eH3qJuEvBonavLn/RgE0qo+IoPU6uBvGHzIXzqrCfg2rTUqy6g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Carlos\\Documents\\Github\\C_Sharp_Projects\\Challenge_2\\Challenge_2\\Challenge_2.csproj",
   "expectedPackageFiles": [
@@ -22,8 +22,7 @@
     "C:\\Users\\Carlos\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
     "C:\\Users\\Carlos\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\Carlos\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
-    "C:\\Users\\Carlos\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
-    "C:\\Users\\Carlos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512"
+    "C:\\Users\\Carlos\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
