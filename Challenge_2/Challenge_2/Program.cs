@@ -27,7 +27,7 @@ namespace Challenge_2
 
         public class StudentContext : DbContext
         {
-            public StudentContext(DbContextOptions<StudentContext> options) : base(options)
+            public StudentContext() : base()
             {
             }
             public DbSet<Student> Students { get; set; }
